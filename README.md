@@ -64,8 +64,9 @@
 
 <h3 align="left">📊 GitHub Stats</h3>
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zGravity123&show_icons=true&theme=dracula&hide_border=true" alt="Sérgio's GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zGravity123&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zGravity123&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-profile-trophies.vercel.app/?username=zGravity123&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 <br>
