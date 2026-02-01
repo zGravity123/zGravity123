@@ -25,6 +25,28 @@
 
 <br>
 
+<h3 align="left">🚀 Recent Projects</h3>
+<ul>
+  <li>
+    🔓 <strong><a href="https://github.com/zGravity123/Discord-Ticket-Bot-v1.4">Discord Ticket Bot v1.4</a></strong>
+    <br>Bot para gerenciamento de tickets e suporte.
+  </li>
+  <li>
+    🔓 <strong><a href="https://github.com/zGravity123/Minecraft-Status">Minecraft Status</a></strong>
+    <br>Ferramenta para verificar status de servidores.
+  </li>
+  <li>
+    🔓 <strong><a href="https://github.com/zGravity123/Discord-Bate-Ponto-Bot">Discord Bate-Ponto Bot</a></strong>
+    <br>Sistema de registro de ponto para equipes.
+  </li>
+  <li>
+    🔒 <strong><a href="https://github.com/zGravity123/zen-studios.website">Zen Studios Website</a></strong>
+    <br>Código-fonte do site oficial (Privado).
+  </li>
+</ul>
+
+<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.instagram.com/zgravityy123" target="_blank">
