@@ -1,20 +1,17 @@
-<h1 align="center">Hi there, I'm Sérgio Almeida 👋</h1>
-<h3 align="center">Backend Developer in training | Founder of Zen Studios</h3>
+<h1 align="center">Hi there, I'm Sérgio Almeida</h1>
+<h3 align="center">Backend Developer | Founder of Zen Studios</h3>
 
 <br>
 
 <table border="0" width="100%">
   <tr>
-    <td width="60%">
+    <td width="60%" valign="top">
       <h3>About Me</h3>
-      <br>
       <ul>
-        <li>🔭 I’m currently working on <strong><a href="https://zenstudios.online">Zen Studios</a> (Minecraft)</strong></li>
-        <li>📚 I’m currently studying <strong>Programming Logic & Backend Fundamentals</strong></li>
-        <li>🌱 I’m currently learning <strong>Git, GitHub & APIs</strong></li>
-        <li>🤝 I’m looking to collaborate on <strong>Small backend tools</strong></li>
-        <li>🥅 2026 Goals: <strong>Master Backend Architecture</strong></li>
-        <li>⚡ Fun fact: <strong>I manage a game server community!</strong></li>
+        <li>🔭 Currently building systems for <strong><a href="https://zenstudios.online">Zen Studios</a></strong></li>
+        <li>📚 Focusing on <strong>Python Backend Architecture & APIs</strong></li>
+        <li>⚡ <strong>4+ Years</strong> of Community & Server Management</li>
+        <li>🤝 Open to collaborations on <strong>Backend Tools</strong></li>
       </ul>
     </td>
     <td width="40%" align="center">
@@ -25,73 +22,68 @@
 
 <br>
 
-<h3 align="left">🛡️ Experience & Communities</h3>
+<h3 align="left">Top Projects & Code</h3>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/zGravity123/Discord-Ticket-Bot-v1.4">Discord Ticket Bot v1.4</a></h3>
+      <p>Advanced support management bot with transcript logs and categorization.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/discord.py-Ticket_System-blue?style=flat-square&logo=discord&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/zGravity123/Minecraft-Status">Minecraft Status Tool</a></h3>
+      <p>Real-time server monitoring tool designed for high-availability checks.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/API-Integration-success?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/zGravity123/Discord-Bate-Ponto-Bot">Staff Time Tracker</a></h3>
+      <p>Clock-in/Clock-out system for staff management and productivity tracking.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL-Database-lightgrey?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%">
+       </td>
+  </tr>
+</table>
+
+<br>
+
+<h3 align="left">Leadership Experience</h3>
 <p align="left">
-  <strong>4+ years of experience</strong> managing Minecraft servers, developing high-level responsibility and leadership skills.
+  <strong>4+ years managing high-traffic Minecraft servers.</strong>
 </p>
 <ul>
-  <li><strong>Zen Studios:</strong> Founder & Lead</li>
-  <li><strong>AurorasMC:</strong> Founder</li>
-  <li><strong>Meritus MC:</strong> Founder</li>
-  <li><strong>Stark MC:</strong> Administrator</li>
-  <li><strong>Rede Saint:</strong> Helper</li>
-  <li><strong>KowaMC:</strong> Staff Member</li>
+  <li><strong>Zen Studios:</strong> Founder & Lead Developer</li>
+  <li><strong>AurorasMC / Meritus MC:</strong> Founder</li>
+  <li><strong>Stark MC / KowaMC:</strong> Administrator & Staff</li>
 </ul>
 
 <br>
 
-<h3 align="left">⚡ Recent Work</h3>
-<ul>
-  <li>
-    <strong><a href="https://github.com/zGravity123/Discord-Ticket-Bot-v1.4">Discord Ticket Bot v1.4</a></strong> (Public)
-    <br>Advanced ticket and support management bot.
-  </li>
-  <li>
-    <strong><a href="https://github.com/zGravity123/Minecraft-Status">Minecraft Status</a></strong> (Public)
-    <br>Real-time server status verification tool.
-  </li>
-  <li>
-    <strong><a href="https://github.com/zGravity123/Discord-Bate-Ponto-Bot">Discord Bate-Ponto Bot</a></strong> (Public)
-    <br>Staff time-tracking and clock-in system.
-  </li>
-  <li>
-    <strong><a href="https://github.com/zGravity123/zen-studios.website">Zen Studios Website</a></strong> (Private)
-    <br>Official website source code.
-  </li>
-</ul>
-
-<br>
-
-<h3 align="left">🏆 Achievements</h3>
+<h3 align="left">Achievements</h3>
 <p align="left">
   <img src="https://github-profile-trophies.vercel.app/?username=zGravity123&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect & Stack</h3>
 <p align="left">
-  <a href="https://www.instagram.com/zgravityy123" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-zgravidade__-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="mailto:sergiofilipe414@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Discord-zgravidade__-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  <a href="https://www.reddit.com/user/zGravityy123/" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
-  </a>
-  <a href="mailto:sergiofilipe414@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.paypal.com/paypalme/zgravidade" target="_blank">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
-  </a>
-  <a href="https://pt.namemc.com/profile/zGravityy.5" target="_blank">
-    <img src="https://img.shields.io/badge/NameMC-zGravityy-46a546?style=for-the-badge&logo=minecraft&logoColor=white" alt="NameMC" />
-  </a>
-  <a href="https://soundcloud.com/sergio-almeida-376568946" target="_blank">
-    <img src="https://img.shields.io/badge/SoundCloud-Vibe_With_Me-ff7700?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud" />
-  </a>
-</p>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=zGravity123&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Counter" />
 </p>
