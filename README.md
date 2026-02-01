@@ -1,12 +1,12 @@
 <h1 align="center">Hi there, I'm Sérgio Almeida 👋</h1>
-<h3 align="center">Backend Developer in training | Founder of Zen Studios 🎮</h3>
+<h3 align="center">Backend Developer in training | Founder of Zen Studios</h3>
 
 <br>
 
 <table border="0" width="100%">
   <tr>
     <td width="60%">
-      <h3>👨‍💻 I'm a Developer, Student, and Founder!</h3>
+      <h3>About Me</h3>
       <br>
       <ul>
         <li>🔭 I’m currently working on <strong><a href="https://zenstudios.online">Zen Studios</a> (Minecraft)</strong></li>
@@ -25,25 +25,48 @@
 
 <br>
 
+<h3 align="left">🛡️ Experience & Communities</h3>
+<p align="left">
+  <strong>4+ years of experience</strong> managing Minecraft servers, developing high-level responsibility and leadership skills.
+</p>
+<ul>
+  <li><strong>Zen Studios:</strong> Founder & Lead</li>
+  <li><strong>AurorasMC:</strong> Founder</li>
+  <li><strong>Meritus MC:</strong> Founder</li>
+  <li><strong>Stark MC:</strong> Administrator</li>
+  <li><strong>Rede Saint:</strong> Helper</li>
+  <li><strong>KowaMC:</strong> Staff Member</li>
+</ul>
+
+<br>
+
 <h3 align="left">⚡ Recent Work</h3>
 <ul>
   <li>
-    🔓 <strong><a href="https://github.com/zGravity123/Discord-Ticket-Bot-v1.4">Discord Ticket Bot v1.4</a></strong>
+    <strong><a href="https://github.com/zGravity123/Discord-Ticket-Bot-v1.4">Discord Ticket Bot v1.4</a></strong> (Public)
     <br>Advanced ticket and support management bot.
   </li>
   <li>
-    🔓 <strong><a href="https://github.com/zGravity123/Minecraft-Status">Minecraft Status</a></strong>
+    <strong><a href="https://github.com/zGravity123/Minecraft-Status">Minecraft Status</a></strong> (Public)
     <br>Real-time server status verification tool.
   </li>
   <li>
-    🔓 <strong><a href="https://github.com/zGravity123/Discord-Bate-Ponto-Bot">Discord Bate-Ponto Bot</a></strong>
+    <strong><a href="https://github.com/zGravity123/Discord-Bate-Ponto-Bot">Discord Bate-Ponto Bot</a></strong> (Public)
     <br>Staff time-tracking and clock-in system.
   </li>
   <li>
-    🔒 <strong><a href="https://github.com/zGravity123/zen-studios.website">Zen Studios Website</a></strong>
-    <br>Official website source code (Private).
+    <strong><a href="https://github.com/zGravity123/zen-studios.website">Zen Studios Website</a></strong> (Private)
+    <br>Official website source code.
   </li>
 </ul>
+
+<br>
+
+<h3 align="left">📊 GitHub Stats</h3>
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zGravity123&show_icons=true&theme=dracula&hide_border=true" alt="Sérgio's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zGravity123&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+</p>
 
 <br>
 
@@ -65,4 +88,11 @@
   <a href="https://pt.namemc.com/profile/zGravityy.5" target="_blank">
     <img src="https://img.shields.io/badge/NameMC-zGravityy-46a546?style=for-the-badge&logo=minecraft&logoColor=white" alt="NameMC" />
   </a>
+  <a href="https://soundcloud.com/sergio-almeida-376568946" target="_blank">
+    <img src="https://img.shields.io/badge/SoundCloud-Vibe_With_Me-ff7700?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud" />
+  </a>
+</p>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=zGravity123&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Counter" />
 </p>
