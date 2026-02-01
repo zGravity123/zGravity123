@@ -62,10 +62,8 @@
 
 <br>
 
-<h3 align="left">📊 GitHub Stats</h3>
+<h3 align="left">🏆 Achievements</h3>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zGravity123&theme=dracula&hide_border=true" alt="GitHub Streak" />
-  <br><br>
   <img src="https://github-profile-trophies.vercel.app/?username=zGravity123&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
