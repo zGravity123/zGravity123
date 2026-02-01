@@ -3,25 +3,6 @@
 
 <br>
 
-<table border="0" width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <h3>About Me</h3>
-      <ul>
-        <li>🔭 Currently building systems for <strong><a href="https://zenstudios.online">Zen Studios</a></strong></li>
-        <li>📚 Focusing on <strong>Python Backend Architecture & APIs</strong></li>
-        <li>⚡ <strong>4+ Years</strong> of Community & Server Management</li>
-        <li>🤝 Open to collaborations on <strong>Backend Tools</strong></li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100%" alt="Cat Typing Fast">
-    </td>
-  </tr>
-</table>
-
-<br>
-
 <h3 align="left">Top Projects & Code</h3>
 
 <table border="0" width="100%">
@@ -52,8 +33,26 @@
         <img src="https://img.shields.io/badge/SQL-Database-lightgrey?style=flat-square" />
       </p>
     </td>
-    <td width="50%">
-       </td>
+    <td width="50%"></td>
+  </tr>
+</table>
+
+<br>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>About Me</h3>
+      <ul>
+        <li>🔭 Currently building systems for <strong><a href="https://zenstudios.online">Zen Studios</a></strong></li>
+        <li>📚 Focusing on <strong>Python Backend Architecture & APIs</strong></li>
+        <li>⚡ <strong>4+ Years</strong> of Community & Server Management</li>
+        <li>🤝 Open to collaborations on <strong>Backend Tools</strong></li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100%" alt="Cat Typing Fast">
+    </td>
   </tr>
 </table>
 
