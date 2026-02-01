@@ -24,11 +24,23 @@
 </table>
 
 <br>
-<img src="https://user-images.githubusercontent.com/3369400/124373656-7c631980-dbcf-11eb-8919-4b6eb384eb1d.png" width="100%" alt="City Banner">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://zenstudios.online" target="blank"><img align="center" src="https://img.shields.io/badge/Website-Zen%20Studios-blue?style=for-the-badge&logo=google-chrome" alt="Website" /></a>
-  <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <a href="https://www.instagram.com/zgravityy123" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <img src="https://img.shields.io/badge/Discord-zgravidade__-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <a href="https://www.reddit.com/user/zGravityy123/" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
+  </a>
+  <a href="mailto:sergiofilipe414@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.paypal.com/paypalme/zgravidade" target="_blank">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
+  </a>
+  <a href="https://pt.namemc.com/profile/zGravityy.5" target="_blank">
+    <img src="https://img.shields.io/badge/NameMC-zGravityy-46a546?style=for-the-badge&logo=minecraft&logoColor=white" alt="NameMC" />
+  </a>
 </p>
