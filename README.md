@@ -1,6 +1,10 @@
 <h1 align="center">Hi there, I'm Sérgio Almeida</h1>
 <h3 align="center">Backend Developer | Founder of Zen Studios</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zGravity123&label=Profile%20Views&color=blue&style=flat-square" alt="zGravity123" />
+</p>
+
 <br>
 
 <h3 align="left">Top Projects & Code</h3>
