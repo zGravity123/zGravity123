@@ -33,7 +33,14 @@
         <img src="https://img.shields.io/badge/SQL-Database-lightgrey?style=flat-square" />
       </p>
     </td>
-    <td width="50%"></td>
+    <td width="50%">
+      <h3><a href="https://github.com/zGravity123/learning-path">Learning Path</a></h3>
+      <p>Algorithm and programming logic studies using Pascal to strengthen CS fundamentals.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Pascal-E43911?style=flat-square&logo=pascal&logoColor=white" />
+        <img src="https://img.shields.io/badge/Logic-Fundamentals-orange?style=flat-square" />
+      </p>
+    </td>
   </tr>
 </table>
 
@@ -80,6 +87,7 @@
 <h3 align="left">Connect & Stack</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pascal-E43911?style=for-the-badge&logo=pascal&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Discord-zgravidade__-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   <a href="mailto:sergiofilipe414@gmail.com">
