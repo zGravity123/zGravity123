@@ -88,6 +88,32 @@
 
 <br>
 
+<h3 align="left">Certifications & Training</h3>
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <p align="left">
+        <strong>Cisco Networking Academy</strong><br>
+        <img src="https://img.shields.io/badge/Cisco-Packet_Tracer-005A70?style=flat-square&logo=cisco&logoColor=white" />
+        <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
+      </p>
+      <a href="Certificates/Getting_Started_with_Cisco_Packet_Tracer.jpg">
+        <img src="Certificates/Getting_Started_with_Cisco_Packet_Tracer.jpg" width="280px" alt="Cisco Packet Tracer Certificate" style="border-radius: 8px; border: 1px solid #444;">
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <p align="left">
+        <strong>Cybersecurity Awareness</strong><br>
+        <img src="https://img.shields.io/badge/Security-Awareness-red?style=flat-square&logo=fortinet&logoColor=white" />
+        <img src="https://img.shields.io/badge/Status-In_Progress-orange?style=flat-square" />
+      </p>
+      <p><i>Focusing on digital threats, data protection, and secure online practices.</i></p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
 <h3 align="left">Connect & Stack</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
