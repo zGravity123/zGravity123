@@ -56,7 +56,7 @@
       <h3>About Me</h3>
       <ul>
         <li>🔭 Currently building systems for <strong><a href="https://zenstudios.online">Zen Studios</a></strong></li>
-        <li>📚 Focusing on <strong>Python Backend Architecture & APIs</strong></li>
+        <li>📚 Focusing on <strong>Backend Architecture & APIs</strong></li>
         <li>⚡ <strong>4+ Years</strong> of Community & Server Management</li>
         <li>🤝 Open to collaborations on <strong>Backend Tools</strong></li>
       </ul>
