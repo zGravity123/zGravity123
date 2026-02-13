@@ -105,9 +105,11 @@
       <p align="left">
         <strong>Cybersecurity Awareness</strong><br>
         <img src="https://img.shields.io/badge/Security-Awareness-red?style=flat-square&logo=fortinet&logoColor=white" />
-        <img src="https://img.shields.io/badge/Status-In_Progress-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
       </p>
-      <p><i>Focusing on digital threats, data protection, and secure online practices.</i></p>
+      <a href="Certificates/Digital_Safety.png">
+        <img src="Certificates/Digital_Safety.png" width="280px" alt="Cybersecurity Awareness Certificate" style="border-radius: 8px; border: 1px solid #444;">
+      </a>
     </td>
   </tr>
 </table>
