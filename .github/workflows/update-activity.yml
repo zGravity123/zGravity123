@@ -21,3 +21,4 @@ jobs:
         with:
           COMMIT_MSG: "Update recent activity"
           MAX_LINES: 5
+          README_FILEPATH: ./README.md
