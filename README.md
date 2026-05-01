@@ -68,7 +68,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zGravity123&show_icons=true&theme=dracula&hide_border=true&title_color=2196F3" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zGravity123&show_icons=true&theme=dracula&hide_border=true&title_color=2196F3" width="48%" alt="" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zGravity123&layout=compact&theme=dracula&hide_border=true&title_color=2196F3" width="41%" alt="Top Languages" />
 </p>
 
