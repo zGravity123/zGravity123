@@ -96,19 +96,8 @@
   <img src="./images/topprojects.png" alt="Top Projects" width="100%">
 </p>
 
-<p align="center">
-  <a href="https://github.com/zGravity123/Discord-Ticket-Bot-v1.4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zGravity123&repo=Discord-Ticket-Bot-v1.4&theme=dracula&hide_border=true&title_color=2196F3" width="45%" alt="Ticket Bot" />
-  </a>
-  <a href="https://github.com/zGravity123/Minecraft-Status">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zGravity123&repo=Minecraft-Status&theme=dracula&hide_border=true&title_color=2196F3" width="45%" alt="Minecraft Status" />
-  </a>
-</p>
 
 <p align="center">
-  <a href="https://github.com/zGravity123/Discord-Bate-Ponto-Bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zGravity123&repo=Discord-Bate-Ponto-Bot&theme=dracula&hide_border=true&title_color=2196F3" width="45%" alt="Staff Time Tracker" />
-  </a>
   <a href="https://github.com/zGravity123/learning-path">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=zGravity123&repo=learning-path&theme=dracula&hide_border=true&title_color=2196F3" width="45%" alt="Learning Path" />
   </a>
