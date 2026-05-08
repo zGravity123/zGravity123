@@ -68,12 +68,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zGravity123&show_icons=true&theme=dracula&hide_border=true&title_color=2196F3" width="48%" alt="" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zGravity123&layout=compact&theme=dracula&hide_border=true&title_color=2196F3" width="41%" alt="Top Languages" />
+  <img src="https://github-readme-stats-ten-gamma-16.vercel.app/api?username=zGravity123&show_icons=true&theme=dracula&hide_border=true&title_color=2196F3&v=3" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-ten-gamma-16.vercel.app/api/top-langs/?username=zGravity123&layout=compact&theme=dracula&hide_border=true&title_color=2196F3&v=3" width="44%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zGravity123&theme=dracula&hide_border=true&background=0D1117&ring=2196F3&fire=2196F3&currStreakNum=white" width="90%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zGravity123&theme=dracula&hide_border=true&background=0D1117&ring=2196F3&fire=2196F3&currStreakNum=white" width="93%" alt="GitHub Streak" />
 </p>
 
 <br>
@@ -96,10 +96,9 @@
   <img src="./images/topprojects.png" alt="Top Projects" width="100%">
 </p>
 
-
 <p align="center">
   <a href="https://github.com/zGravity123/learning-path">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zGravity123&repo=learning-path&theme=dracula&hide_border=true&title_color=2196F3" width="45%" alt="Learning Path" />
+    <img src="https://github-readme-stats-ten-gamma-16.vercel.app/api/pin/?username=zGravity123&repo=learning-path&theme=dracula&hide_border=true&title_color=2196F3&v=3" width="45%" alt="Learning Path" />
   </a>
 </p>
 
