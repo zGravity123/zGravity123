@@ -28,7 +28,7 @@
         <li><b>Focus:</b> Front-End & Modern Web Interfaces</li>
         <li><b>Technical Base:</b> Strengthening Back-End fundamentals (Python/APIs)</li>
         <li><b>Ask me about:</b> Design Systems and Server Management</li>
-        <li><b>Portfolio:</b> <a href="https://guns.lol/zgravityy">guns.lol/zgravityy</a></li>
+        <li><b>Portfolio:</b> <a href="https://www.zgravityy.xyz/">zgravityy.xyz</a> — <i>Acesse meu portfólio online para uma melhor experiência!</i></li>
       </ul>
     </td>
     <td width="35%" align="center" style="padding: 20px;">
