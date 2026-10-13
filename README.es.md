@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zGravity123&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Vistas del Perfil" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=zGravity123&label=Vistas%20del%20Perfil&countColor=%232196f3&style=flat-square" alt="Vistas del Perfil" />
 </p>
 
 <br>
