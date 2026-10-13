@@ -9,6 +9,7 @@
   <a href="#estado-actual">Estado</a> &bull;
   <a href="#tech-stack">Tech Stack</a> &bull;
   <a href="#estadisticas">Estadísticas</a> &bull;
+  <a href="#actividad-reciente">Actividad</a> &bull;
   <a href="#proyectos">Proyectos</a> &bull;
   <a href="#contacto">Contacto</a>
 </p>
@@ -111,6 +112,17 @@
 
 <br>
 
+<span id="actividad-reciente"></span>
+<p align="center">
+  <img src="./images/recentactivity.png" alt="Actividad Reciente" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.vercel.app/graph?username=zGravity123&theme=dracula&hide_border=true&area=true" width="100%" alt="Gráfico de Actividad" />
+</p>
+
+<br>
+
 <span id="proyectos"></span>
 <p align="center">
   <img src="./images/topprojects.png" alt="Proyectos Principales" width="100%">
@@ -120,6 +132,12 @@
   <a href="https://github.com/zGravity123/learning-path">
     <img src="https://github-readme-stats-ten-gamma-16.vercel.app/api/pin/?username=zGravity123&repo=learning-path&theme=dracula&hide_border=true&title_color=2196F3&v=3" width="45%" alt="Learning Path" />
   </a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" width="100%" alt="Cita Dev" />
 </p>
 
 <br>
