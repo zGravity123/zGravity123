@@ -9,7 +9,6 @@
   <a href="#live-status">Status</a> &bull;
   <a href="#tech-stack">Tech Stack</a> &bull;
   <a href="#github-stats">Stats</a> &bull;
-  <a href="#recent-activity">Activity</a> &bull;
   <a href="#top-projects">Projects</a> &bull;
   <a href="#contact">Contact</a>
 </p>
@@ -112,16 +111,6 @@
 
 <br>
 
-<span id="recent-activity"></span>
-<p align="center">
-  <img src="./images/recentactivity.png" alt="Recent Activity" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://activity-graph.vercel.app/graph?username=zGravity123&theme=dracula&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-</p>
-
-<br>
 
 <span id="top-projects"></span>
 <p align="center">

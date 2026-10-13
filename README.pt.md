@@ -9,7 +9,6 @@
   <a href="#estado-atual">Estado</a> &bull;
   <a href="#tech-stack">Tech Stack</a> &bull;
   <a href="#estatisticas">Estatísticas</a> &bull;
-  <a href="#atividade-recente">Atividade</a> &bull;
   <a href="#projetos">Projetos</a> &bull;
   <a href="#contacto">Contacto</a>
 </p>
@@ -112,16 +111,6 @@
 
 <br>
 
-<span id="atividade-recente"></span>
-<p align="center">
-  <img src="./images/recentactivity.png" alt="Atividade Recente" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://activity-graph.vercel.app/graph?username=zGravity123&theme=dracula&hide_border=true&area=true" width="100%" alt="Gráfico de Atividade" />
-</p>
-
-<br>
 
 <span id="projetos"></span>
 <p align="center">
